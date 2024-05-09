@@ -20,3 +20,9 @@
 <img  alt="Vsc" src="icons/visual.png" />
 <img  alt="React" src="icons/spring.png" />
 </div>
+
+### Github
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugcegenc)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tugcegenc&show_icons=true)
