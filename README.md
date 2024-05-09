@@ -10,21 +10,20 @@
 
 ### 🔧 Languages and Tools:
 
-<div class= "icon-container">
-<img  alt="Java" src="icons/java.png" />
-<img  alt="JavaScript" src="icons/js.png" />
-<img  alt="Html" src="icons/html.png" />
-<img  alt="Css" src="icons/css.png" />
-<img  alt="React" src="icons/react.png" />
-<img  alt="İntelliJ" src="icons/intelliJ.png" />
-<img  alt="Vsc" src="icons/visual.png" />
-<img  alt="React" src="icons/spring.png" />
-
-<br/>
-<br/>
-
+<div class="icon-container">
+<img alt="Java" src="icons/java.png" width="40" height="40" />
+<img alt="JavaScript" src="icons/js.png" width="40" height="40" />
+<img alt="HTML" src="icons/html.png" width="40" height="40" />
+<img alt="CSS" src="icons/css.png" width="40" height="40" />
+<img alt="React" src="icons/react.png" width="40" height="40" />
+<img alt="IntelliJ" src="icons/intelliJ.png" width="40" height="40" />
+<img alt="Visual Studio Code" src="icons/visual.png" width="40" height="40" />
+<img alt="Spring" src="icons/spring.png" width="40" height="40" />
 </div>
 
-### Github Stats:
+<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugcegenc)
+### 📊 GitHub Stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugcegenc&layout=compact)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tugcegenc&show_icons=true)](https://github.com/tugcegenc)
