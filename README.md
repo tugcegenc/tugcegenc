@@ -25,5 +25,6 @@
 
 ### 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugcegenc&layout=compact)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tugcegenc&show_icons=true)](https://github.com/tugcegenc)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugcegenc&layout=compact)
