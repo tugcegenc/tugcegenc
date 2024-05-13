@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @tugcegenc
+## 👋 Hi, I’m Tuğçe Genç
 
 👀 I’m interested in software development and technology.
 
